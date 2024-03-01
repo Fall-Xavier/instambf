@@ -1,1 +1,1 @@
-print("chat tele @fajrulfalah")
+print("njirr")
