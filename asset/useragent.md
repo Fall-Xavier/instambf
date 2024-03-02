@@ -1,4 +1,4 @@
-### how to use
+# how to use
 follow input instructions as shown in the example below for each device
 
 android
@@ -15,7 +15,7 @@ iphone
 - merk   : iphone
 ```
 
-### list device
+# list device
 list devices are available
 ```
 - xiaomi
