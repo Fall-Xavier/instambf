@@ -1,5 +1,5 @@
 ### how to use
-follow the input instructions as shown in the example below for each device
+follow input instructions as shown in the example below for each device
 
 android
 ```
@@ -16,7 +16,7 @@ iphone
 ```
 
 ### list device
-only a few devices are available
+list devices are available
 ```
 - xiaomi
 - oppo
