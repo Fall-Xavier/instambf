@@ -15,7 +15,7 @@ iphone
 - merk   : iphone
 ```
 
-apps version
+apps version (capital first letter)
 ```
 - Instagram
 - InstagramCarbon
