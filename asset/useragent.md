@@ -15,6 +15,12 @@ iphone
 - merk   : iphone
 ```
 
+apps version
+```
+- Instagram
+- InstagramCarbon
+```
+
 # list device
 list devices are available
 ```
