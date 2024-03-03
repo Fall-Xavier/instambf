@@ -5,7 +5,8 @@
 
 <h2>fiturs in tools</h2>
 <ol>
-  <li>instagram login</li>
+  <li>proxy rotator</li>
+  <li>custom generate useragent</li>
 </ol>
 
 <h2>method dumps account</h2>
