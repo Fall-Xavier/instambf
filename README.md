@@ -34,5 +34,6 @@
 <h2>contact me</h2>
 
 ```
-telegram : @fajrulfalah
+instagram : ffxyz.24
+telegram  : fajrulfalah
 ```
